@@ -8,7 +8,7 @@ Tests and Confidence Intervals on Directly Standardized Rates for Several Method
 You can install dsrTest from github with:
 
 ```R
-remotes::install_github("mnel/dsrTest")
+remotes::install_github("mnelsonr/dsrTest")
 ```
 or from CRAN
 

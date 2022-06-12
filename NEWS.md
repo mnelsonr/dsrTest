@@ -11,8 +11,13 @@
 
 # Version 0.2.1
 
-- modifactions stop workaround now asht bug fixes are implemented
+- modifictions stop workaround now asht bug fixes are implemented
 
 # Version 0.2.3
 
 - use of testthat now "tested" (suggests != depends)
+
+# Version 0.3.0
+
+- Use \doi throughout to avoid CRAN policy failure
+- Change github repository

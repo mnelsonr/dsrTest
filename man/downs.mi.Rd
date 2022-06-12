@@ -5,7 +5,8 @@
 \alias{downs.mi}
 \title{Downs' syndrome cases and of total live births
 by maternal age and birth order, Michigan, 1950-1964.}
-\format{This \code{data.frame} contains the following columns:
+\format{
+This \code{data.frame} contains the following columns:
 \describe{
 \item{\code{Age}}{The age category of the mothers.}
 \item{\code{BirthOrder}}{The birth order.}
@@ -13,7 +14,8 @@ by maternal age and birth order, Michigan, 1950-1964.}
 \item{\code{Births}}{The number of live births.}
 \item{\code{Standard}}{A "standard" population, derived as the total
 number of births in each age category}
-}}
+}
+}
 \source{
 The data were obtained from table 14.4 (p 249) in
 

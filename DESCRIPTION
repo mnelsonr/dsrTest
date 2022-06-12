@@ -2,8 +2,8 @@ Package: dsrTest
 Type: Package
 Title: Tests and Confidence Intervals on Directly Standardized 
     Rates for Several Methods
-Version: 0.2.2
-Date: 2018-03-24
+Version: 0.3.0
+Date: 2022-06-12
 Author: Michael Nelson
 Maintainer: Michael Nelson <michael.nelson.r.pkg@gmail.com>
 Description: Perform a test of a simple null hypothesis about a 
@@ -11,7 +11,7 @@ Description: Perform a test of a simple null hypothesis about a
     interval using a choice of methods.
 Encoding: UTF-8
 License: GPL (>= 2)
-RoxygenNote: 6.0.1
+RoxygenNote: 7.2.0
 Roxygen: list(markdown = TRUE)
 Depends: R (>= 2.10)
 Imports: stats,
@@ -22,7 +22,7 @@ Suggests: testthat,
     knitr,
     rmarkdown,
     covr
-URL: http://github.com/mnel/dsrTest
-BugReports: http://github.com/mnel/dsrTest/issues
+URL: https://github.com/mnelsonr/dsrTest
+BugReports: https://github.com/mnelsonr/dsrTest/issues
 VignetteBuilder: knitr
 LazyData: true
