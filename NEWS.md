@@ -17,7 +17,7 @@
 
 - use of testthat now "tested" (suggests != depends)
 
-# Version 0.3.0
+# Version 1.0.0
 
 - Use \doi throughout to avoid CRAN policy failure
 - Change github repository

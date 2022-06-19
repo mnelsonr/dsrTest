@@ -100,7 +100,6 @@ Fay MP & Feuer EJ (1997). 'Confidence intervals for directly
 standardized rates: a method based on the gamma distribution.
 Statistics in Medicine*. \strong{16}: 791--801.
 \doi{doi:10.1002/(sici)1097-0258(19970415)16:7<791::aid-sim500>3.0.co;2-#}
-
 Tiwari RC, Clegg LX, & Zou Z (2006). 'Efficient interval estimation
 for age-adjusted cancer rates.'
 \emph{Statistical Methods in Medical Research} \strong{15}: 547--569.

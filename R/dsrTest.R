@@ -48,7 +48,7 @@
 #' standardized rates: a method based on the gamma distribution.
 #' Statistics in Medicine*. **16**: 791--801.
 #' \doi{doi:10.1002/(sici)1097-0258(19970415)16:7<791::aid-sim500>3.0.co;2-#}
-#' 
+
 #' Tiwari RC, Clegg LX, & Zou Z (2006). 'Efficient interval estimation 
 #' for age-adjusted cancer rates.' 
 #' *Statistical Methods in Medical Research* **15**: 547--569. 

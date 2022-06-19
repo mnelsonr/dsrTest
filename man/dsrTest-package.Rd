@@ -29,7 +29,7 @@ Dobson, AJ, Kuulasmaa, K, Eberle, E and Scherer, J (1991)
 
 Swift, MB (1995)  'Simple confidence intervals for standardized rates based on the approximate bootstrap method', \emph{Statistics in Medicine}, \strong{14}, 1875--1888. \doi{doi:10.1002/sim.4780141704}.
 
-Fay MP & Feuer EJ (1997) 'Confidence intervals for directly standardized rates: a method based on the gamma distribution.' \emph{Statistics in Medicine}. \strong{16}: 791--801. \url{https://doi.org/10.1002/(SICI)1097-0258(19970415)16:7<791::AID-SIM500>3.0.CO;2-\%23}
+Fay MP & Feuer EJ (1997) 'Confidence intervals for directly standardized rates: a method based on the gamma distribution.' \emph{Statistics in Medicine}. \strong{16}: 791--801. \doi{doi:10.1002/(sici)1097-0258(19970415)16:7<791::aid-sim500>3.0.co;2-#}
 
 Tiwari RC, Clegg LX, & Zou Z (2006)  'Efficient interval estimation for age-adjusted cancer rates.' \emph{Statistical Methods in Medical Research} \strong{15}: 547--569. \doi{doi:10.1177/0962280206070621}
 
